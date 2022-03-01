@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The anatomie of the inward parts of woman, very necessary to be knowne to physitians, surgians, and all other that desire to know themselues.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1599</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01098</idno>
+            <idno type="STC">STC 564.8</idno>
+            <idno type="STC">ESTC S90282</idno>
+            <idno type="EEBO-CITATION">44920263</idno>
+            <idno type="OCLC">ocm 44920263</idno>
+            <idno type="VID">173713</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01098)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173713)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2089:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The anatomie of the inward parts of woman, very necessary to be knowne to physitians, surgians, and all other that desire to know themselues.</title>
+               </titleStmt>
+               <extent>1+ leaves.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Imprinted at London in the Blacke Friers. :</pubPlace>
+                  <date>1599.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: text for 'Woman' only; text for 'Man' and illustrations lacking.</note>
+                  <note>Reproduction of original in: Wellcome Institute for the History of Medicine. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anatomy, Human --  Early works to 1800.</term>
+               <term>Medicine --  Early works to 1800.</term>
+               <term>Broadsides --  England --  London --  16th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:173713:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 9 -->
+            <head>THE ANATOMIE OF THE INWARD parts of Woman, very neceſſary to be knowne to Phiſi<g ref="char:EOLhyphen"/>tians, Surgians, and all other that deſire to know themſelues.</head>
+            <p>FOr ſo much as the declaration of moſt of the principall parts is ſufficiently ſet forth in the Anatomie of man, therefore will I re<g ref="char:EOLhyphen"/>mit you thether: There to behold the operation of them, and here we will declare the ſituation and manner of ſuch partes as are in a woman, different from the parts in a man. Howbeit, firſt ye ſhall vnderſtand the ſignification of the letters, which are grauen within this figure.</p>
+            <p>
+               <label>A.</label> The gully of the throte.</p>
+            <p>
+               <label>B.</label> The Longes.</p>
+            <p>
+               <label>C.</label> The hart.</p>
+            <p>
+               <label>D.</label> The Middriffe.</p>
+            <p>
+               <label>E.</label> The inner part of the throte pipe paſſing through the boolke &amp; the lunges into the ſtomacke.</p>
+            <p>
+               <label>F.</label> The mouth of the ſtomacke.</p>
+            <p>
+               <label>G.</label> The ſtomacke.</p>
+            <p>
+               <label>H.</label> The bottome of the ſtomacke.</p>
+            <p>
+               <label>I.</label> The nether mouth of the ſtomacke.</p>
+            <p>
+               <label>K.</label> The liuer. Next vnto this letter K. you ſee this</p>
+            <p>
+               <label>L.</label> letter V. the which would be L. and ſignifieth the gaule.</p>
+            <p>
+               <label>M.</label> Vena porte, the liuer vaine.</p>
+            <p>
+               <label>N.</label> The Splene.</p>
+            <p>
+               <label>O.</label> Signifieth the place and veſſell to the which the flowers be de<g ref="char:EOLhyphen"/>riued from the liuer: Nam menſes in primis ſenſum erumpunt ab ipſo iecinore, velut per quedam interualla, donec peruentu<g ref="char:cmbAbbrStroke">̄</g> ſit ad illa (ſuper primum ceruicis pudende exortum) acetavula: quos hec, quaſi hianti &amp; aperto ore effundunt.</p>
+            <p>
+               <label>P.</label> Signifieth the Kidneyes, in Laten Renes.</p>
+            <p>
+               <label>Q.</label> The bladder, in Latine Veſcica: this bladder receiueth the wa<g ref="char:EOLhyphen"/>terie parts &amp; vrine which deſcendeth from the reynes, and it lyeth in the lower partes of the bellie before the wombe or matrix of the woman, whoſe necke entreth in at, and is faſtned to the necke of the wombe through the which naturally it ſendeth forth the vrine.</p>
+            <p>
+               <label>R.</label> Signifieth the great vaine, which is deriued out of the liuer, cal<g ref="char:EOLhyphen"/>led in Latine Parigibba, &amp; Chilis: Concaua venarum mater, the mother of all vaines, and from whom and through his branches (o<g ref="char:EOLhyphen"/>ther ſmaller vaines) bloud is conueyed into all parts of mans body.</p>
+            <p>
+               <label>S.</label> 
+               <label>T.</label> 
+               <label>V.</label> 
+               <label>X.</label> Signifieth the wombe wherein mankind is conceaued, nouriſhed and foſtred, vnto the time it be of a certain might &amp; force, and then naturally is ſent and brought forth into the world, but it is ſomewhat higher then the bladder: the bottome of it extendeth it ſelfe vnto the Nauell.</p>
+            <p>
+               <label>S.</label> Signifieth the bottome of the wombe, where is a certain thicke carnoſite, which boweth downward, and cauſeth a diſtinction to be in the wombe.</p>
+            <p>
+               <label>T.</label> Wherefore T. ſignifieth the right ſide of the Matrix.</p>
+            <p>
+               <label>V.</label> The left ſide. Some there be that vvrite, that there ſhould bee many ſelles or diſtinctions in the Matrice, the which is not true, for other diſtinction then the fleſhie part (vvhich is ſignified by S.) doth cauſe, is there none. In the right ſide as Philoſophers vvrite, lyeth alvvay the man child, in the left the vvoman childe. And to knovv vvhether the conception be male or female, they bid to marke vvhe<g ref="char:EOLhyphen"/>ther it moue more on the right ſide then the left, for the<g ref="char:cmbAbbrStroke">̄</g> it is a man. If on the left more then on the right ſide, then it is a woman: and for that cauſe alſo is to be noted the two breaſts, the right and the left: if the right be greater and harder then the left, it is a token of a man: if the left, of a woman, and if ſhe haue more paine and dolour in the right ſide, likewiſe it ſignifieth the man child, if in the left, a vvoman. Whether it be man or wonan, according to the Doctor of Phiſicke and Philoſophers, when the ſeed is firſt conceiued in the Matrix, it encloſeth it ſelfe after ſuch a ſort, that the point of a needle cannot enter in at it but by violence. And the firſt vi. daies that it is con<g ref="char:EOLhyphen"/>ceiued, it remaineth crude and vvhite like milke.</p>
+            <p>Then in the ſpace of other nine daies it waxeth redde, and is be<g ref="char:EOLhyphen"/>come thicke bloud: then in other xii, dries, it beginneth to come to ſome faſhion: then in the xviii. daies following, the face and other pricipall members, beginne to grow into a full ſhape and forme in longitude, latitude and profunditie. In the reſt of the time vnto the birth it is comforted, and prepared to come forth, the which many times chanceth in the vii. moneth, &amp; the child proueth and doth ve<g ref="char:EOLhyphen"/>ry well: but in the xiii, moneth, few or none proue. About the later end of the ix. againe, if it be borne, it proueth very well, that is the moſt common courſe xl. weekes after the conception. The manner how the child lieth in the mothers wombe, is this: the face lyeth on both the knees: ſo lyeth it round in manner, and the face toward the inward part of the vvombe: and this partly haue I ſhewed you of the operation of the Matrice.</p>
+            <div type="part">
+               <head>A perfect and particular deſcription of the ſecret parts of the body of woman, with the ſignification of the letters contained in the ſame.</head>
+               <p>
+                  <label>1.</label> The wombe is called in Latine Matrix<g ref="char:punc">▪</g> as it were, Mater (that is) a mother: for as much as all beaſtes proceed out of that as borne of a mother: It hangeth betweene the ſplene and the bladder: but ſomewhat higher then the bladder. The bottome and hollowneſſe thereof is extended vnto the nauell, &amp; it is the place of the firſt maſſe of conception called Embrion.</p>
+               <p>
+                  <label>2</label> The right ſide or goulfe of the Matrice wherein male children are begotten.</p>
+               <p>
+                  <label>3</label> The left gulfe of the Matrice, wherein femall children are be<g ref="char:EOLhyphen"/>gotten.</p>
+               <p>
+                  <label>4</label> The mouth or entrance of the Matrice, which is vncloſed in worke of naturall generation, &amp; receiueth the ſeede of man, &amp; after conception ſo ſtraitly cloſeth it ſelfe, that the point of a needle can not enter into it: yet at times conuenient, (that is to ſay, at the auoi<g ref="char:EOLhyphen"/>ding of fluores) it openeth if ſelfe.</p>
+               <p>
+                  <label>5</label> From hence proceedeth the ſeed of woman in conception: &amp; likewiſe the ſeed of man.</p>
+               <p>
+                  <label>6</label> This is the diuiſion of the great vaines proceeding from the liuer to the hart, &amp; againe from the hart, paſſing through the ridge bone of the backe, wherevnto alſo the kidneyes doe cleaue. From hence come the veines whereby the menſtruall bloud (for lacke of naturall heat engendred of crude and vndigeſt bloud) is conueyed into the matrice.</p>
+               <p>
+                  <label>7</label> The necke of the matrice is vi. fingers in length, hauing beneath a narrow mouth, whereby the iſſue of the bladder ſendeth forth vrine.</p>
+               <p>
+                  <label>8</label> The priuie member of woman.</p>
+               <p>
+                  <label>9</label> Two great artery vaines, vvhereunto the matrice is faſtened, and are therefore called the Matrice.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Imprinted at London in the Blacke Friers. 1599.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
